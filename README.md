@@ -30,6 +30,7 @@ Pythonファイルを直接実行する場合は、Python環境（Python3.7以�
 ## config.iniファイルを作成する
 
 以下ファイルを作成して**config.ini**として保存する。
+保存先は**TrelloCsvExporter.exe**ファイルと同じにすること。
 
 ```ini
 [trello-api-key]
