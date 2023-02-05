@@ -1,5 +1,4 @@
 import csv
-import json
 from typing import List
 
 from getTrelloBoard import get_cards_on_trello_board, get_lists_on_trello_board
