@@ -1,4 +1,4 @@
-# TrelloExportCSV
+# TrelloCsvExporter
 
 指定したTrelloボード上のカード情報をCSVへ出力するためのアプリケーションです。
 
@@ -17,15 +17,15 @@ CSVファイルへ出力されるTrelloボード上の情報は以下になり�
 
 Pythonファイルを直接実行する場合は、Python環境（Python3.7以上）さえあれば動きます。
 
-なお[リリースページ](https://github.com/The-town/TrelloExportCSV/releases)に格納しているファイルは全てWindows用です。
+なお[リリースページ](https://github.com/The-town/TrelloCsvExporter/releases)に格納しているファイルは全てWindows用です。
 
 # はじめかた
 
 ## releaseページから実行ファイルをダウンロードする
 
-1. [リリースページ](https://github.com/The-town/TrelloExportCSV/releases)へアクセスする。
-2. **TrelloExportCsv.exe** をダウンロードする。
-3. **TrelloExportCsv.exe** を任意のフォルダに置く。
+1. [リリースページ](https://github.com/The-town/TrelloCsvExporter/releases)へアクセスする。
+2. **TrelloCsvExporter.exe** をダウンロードする。
+3. **TrelloCsvExporter.exe** を任意のフォルダに置く。
 
 ## config.iniファイルを作成する
 
@@ -42,4 +42,4 @@ id=TrelloのボードID
 
 ## 実行する
 
-**TrelloExportCsv.exe**ファイルを実行することで、同じフォルダにCSVファイル（output.csv）が作成される。
+**TrelloCsvExporter.exe**ファイルを実行することで、同じフォルダにCSVファイル（output.csv）が作成される。
